@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex
+  👋 Hi, I’m Alex
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning React JS and Kotlin
 
